@@ -8,6 +8,7 @@ import sushi10 from '../sushi_assets/assets/sushi-10.png'
 import AOS from "aos";
 import "aos/dist/aos.css";
 
+// AOS file generate with npm install aos
 // init AOS animation
 AOS.init({
     duration: 1000,
