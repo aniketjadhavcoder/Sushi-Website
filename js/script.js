@@ -6,8 +6,7 @@ import sushi11 from '../sushi_assets/assets/sushi-11.png'
 import sushi10 from '../sushi_assets/assets/sushi-10.png'
 
 import AOS from "aos";
-import "../dist/assets/index-4cc2ea41.css";
-
+import "aos/dist/aos.css";
 
 // AOS file generate with npm install aos
 // init AOS animation
